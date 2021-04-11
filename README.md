@@ -8,6 +8,7 @@ Katkıda bulunan arkadaşlarım bu projeye bulunmaya tebrik ediyoruz. Bu program
 ![Ek Açıklama 2021-04-11 144855](https://user-images.githubusercontent.com/42430554/114303659-f391d900-9ad7-11eb-9a5a-55bb890b9550.jpg)
 
 2-Youtube'de olan müzik url kopyalayıp buraya attıktan sonra mp3 veya mp4 olarak seçenekleri tıkladıktan sonra dosyayı nereye atılacağınızı seçtikten sonra artık müzik indirme hazır. Reklam yok sınırsız kullan.
+
 ![Ek Açıklama 2021-04-11 144933](https://user-images.githubusercontent.com/42430554/114303662-f7bdf680-9ad7-11eb-9c4f-3384a4aa5d25.jpg)
 
 3-Bu programı indirdikten sonra tabi bilgisayarınızda kayıtlı olursa bu ayarlara gelince programı arkaplanda çalıştır butonu tıklarsanız hemen olmuyor yani bilgisayarı yeniden başladıktan sonra sisteme kayıt ediyor. Yeniden başlattıktan sonra programı açıp siz istediğinizi yere takılın o arkaplanda çalacaktır.
