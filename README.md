@@ -23,5 +23,5 @@ Katkıda bulunan arkadaşlarım bu projeye bulunmaya tebrik ediyoruz.
 </p>
 
 <hr/>
-<p/>
+
 > Lisans bilgisi tüm kod, GPL Sürüm 3 lisansı altındadır. Lisansın kullanım koşulları için LİSANS dosyasını okuyun.
