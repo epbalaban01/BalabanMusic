@@ -1,23 +1,22 @@
 # Balaban Müzik 
 
-Balaban Müzik için sadece exe olarak programı kullanırsınız. Kaynak kodu buraya atmak istedim anca
+  Balaban Müzik istediğiniz şarkıları buraya aktaralarak kullanabilirsiniz. 
 
-Katkıda bulunan arkadaşlarım bu projeye bulunmaya tebrik ediyoruz.
 
 <b>Desteklenen Diller</b>
 - [x] Türkçe
 
 <b>Özellikler</b>
 
-- [x] Web tasarım da tablolar oluşturuldu.
-- [x] Resimler oluşturuldu.
-- [x] Sade menüler oluşturuldu.
+- [x] Arayüz de değişikler yapıldı.
+- [x] Youtube'den şarkı indir paneli eklendi.
+- [x] Ses ayarları düzeltildi.
 
 <b>Eklenebilecek Özellikler</b>
 
-- [ ] Javascript kodlarıyla eklenebilirdi.
-- [ ] CSS güncellemesi yapılabilirdi.
-- [ ] Fotoğraflar açılabilir yapılabilirdi.
+- [ ] Arama yerini şarkı ismi yazarak kolayca mp3 dosyası indirebilirdi.
+- [ ] Program arkaplan çalışabilirdi.
+- [ ] Arayüz de daha güzel yapılabilirdi.
 
 <b>Ekran Görüntüleri</b>
 |   |
@@ -33,4 +32,8 @@ Katkıda bulunan arkadaşlarım bu projeye bulunmaya tebrik ediyoruz.
 
 <hr/>
 
-> Lisans bilgisi tüm kod, GPL Sürüm 3 lisansı altındadır. Lisansın kullanım koşulları için LİSANS dosyasını okuyun.
+#
+<b>Programcıdan Notlar</b>
+> <b>Öneriler, istekler ve sorunların varsa lütfen bize ulaşın! :)</b>
+
+> Bu programın yapmamın amacı daha kolay müzik programı kullanmak için yapılmıştır. Eğer tekrar sorun yaşarsanız ya da bize destek olmak istiyorsanız lütfen çekinmeden ulaşın :)
