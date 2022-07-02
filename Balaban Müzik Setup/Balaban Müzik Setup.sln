@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Balaban Müzik Setup", "Balaban Müzik Setup\Balaban Müzik Setup.vdproj", "{C5E97939-F3C1-4944-9379-A255D2EAA235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5E97939-F3C1-4944-9379-A255D2EAA235}.Debug|Default.ActiveCfg = Debug
+		{C5E97939-F3C1-4944-9379-A255D2EAA235}.Debug|Default.Build.0 = Debug
+		{C5E97939-F3C1-4944-9379-A255D2EAA235}.Release|Default.ActiveCfg = Release
+		{C5E97939-F3C1-4944-9379-A255D2EAA235}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B03C2DF1-1C7A-4BFF-9AEF-614B14A4869A}
+	EndGlobalSection
+EndGlobal
