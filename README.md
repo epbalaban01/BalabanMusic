@@ -4,11 +4,26 @@ Balaban Müzik için sadece exe olarak programı kullanırsınız. Kaynak kodu b
 
 Katkıda bulunan arkadaşlarım bu projeye bulunmaya tebrik ediyoruz.
 
-1. Balaban Müzik programı açılış ekranı 
+<b>Desteklenen Diller</b>
+- [x] Türkçe
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/42430554/114303659-f391d900-9ad7-11eb-9a5a-55bb890b9550.jpg" alt="Balaban Müzik"/>
-</p>
+<b>Özellikler</b>
+
+- [x] Web tasarım da tablolar oluşturuldu.
+- [x] Resimler oluşturuldu.
+- [x] Sade menüler oluşturuldu.
+
+<b>Eklenebilecek Özellikler</b>
+
+- [ ] Javascript kodlarıyla eklenebilirdi.
+- [ ] CSS güncellemesi yapılabilirdi.
+- [ ] Fotoğraflar açılabilir yapılabilirdi.
+
+<b>Ekran Görüntüleri</b>
+|   |
+|---|
+| 1. Balaban Müzik programı açılış ekranı |
+| "https://user-images.githubusercontent.com/42430554/114303659-f391d900-9ad7-11eb-9a5a-55bb890b9550.jpg" alt="Balaban Müzik" |
 
 2. Youtube'de olan müzik url kopyalayıp buraya attıktan sonra mp3 veya mp4 olarak seçenekleri tıkladıktan sonra dosyayı nereye atılacağınızı seçtikten sonra artık müzik indirme hazır. Reklam yok sınırsız kullan.
 
